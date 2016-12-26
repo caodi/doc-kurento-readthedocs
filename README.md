@@ -6,40 +6,38 @@
 
 [![][KurentoImage]][Kurento]
 
-Copyright © 2013-2016 [Kurento]. Licensed under [Apache 2.0 License].
+版权 © 2013-2016 [Kurento]. 授权下 [Apache 2.0 License].
 
-doc-kurento
+kurento-文档
 ===========
 
-Kurento Documentation. Made with [Sphinx] and [Read-the-docs] theme.
+Kurento 文档. 用 [Sphinx] 和 [Read-the-docs] 主题.
 
-What is Kurento
+Kurento是什么？
 ---------------
 
-Kurento is an open source software project providing a platform suitable
-for creating modular applications with advanced real-time communication
-capabilities. For knowing more about Kurento, please visit the Kurento
-project website: http://www.kurento.org.
+Kurento是一个开源软件项目，提供一个适合的平台
+用于创建具有先进实时通信的模块化应用程序
+能力。要了解更多关于Kurento，请访问Kurento
+项目网站: http://www.kurento.org.
 
-Kurento is part of [FIWARE]. For further information on the relationship of
-FIWARE and Kurento check the [Kurento FIWARE Catalog Entry]
+Kurento是[FIWARE]的一部分。 有关的关系的进一步信息
+FIWARE和Kurento检查[Kurento FIWARE目录条目]
+Kurento是[NUBOMEDIA]研究计划的一部分。
 
-Kurento is part of the [NUBOMEDIA] research initiative.
-
-Documentation
+文档
 -------------
 
-The Kurento project provides detailed [documentation] including tutorials,
-installation and development guides. A simplified version of the documentation
-can be found on [readthedocs.org]. The [Open API specification] a.k.a. Kurento
-Protocol is also available on [apiary.io].
-
-Source
+Kurento项目提供详细的[文档]，包括教程，
+安装和开发指南。 文档的简化版本
+可以在[readthedocs.org]找到。 [Open API规范] a.k.a. Kurento
+协议也可在[apiary.io]上获得。
+源文件
 ------
 
-Code for other Kurento projects can be found in the [GitHub Kurento Group].
+其他Kurento项目的代码可以在[GitHub Kurento Group]找到。
 
-News and Website
+新闻和网站
 ----------------
 
 Check the [Kurento blog]
